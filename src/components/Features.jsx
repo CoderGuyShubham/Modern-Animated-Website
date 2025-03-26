@@ -82,14 +82,14 @@ const Features = () => {
               description="An anime and gaming-inspired NFT collection - the IP primed for expansion."
             />
           </BentoTilt>
-          <BentoTilt className="bento-tilt_1 row-span-1 ms-32 md:col-span-1 md:ms-0">
+          <BentoTilt className="bento-tilt_1 row-span-1 md:col-span-1 ">
             <BentoCard 
               src="videos/feature-3.mp4"
               title={<>n<b>e</b>xus</>}
               description="A gamified social hub, adding a new dimension of play to social interaction for Web3 communities."
             />
           </BentoTilt>
-          <BentoTilt className="bento-tilt_1 me-14 md:col-span-1 md:me-0">
+          <BentoTilt className="bento-tilt_1 md:col-span-1 ">
             <BentoCard 
               src="videos/feature-4.mp4"
               title={<>az<b>u</b>l</>}
